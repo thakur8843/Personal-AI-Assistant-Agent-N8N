@@ -58,10 +58,10 @@ User (Streamlit Chat UI)
 
 ## 🛠️ Tech Stack
 
-- **Workflow Engine:** n8n (self-hosted or cloud)
-- **AI Model:** OpenAI GPT-4 (or GPT-3.5-turbo)
+- **Workflow Engine:** n8n 
+- **AI Model:** OpenAI GPT-5-Mini 
 - **Frontend:** Streamlit (Python)
-- **Integrations:** Gmail API, Google Calendar API, Google Search API
+- **Integrations:** Gmail API, Google Calendar API, Google Search API(Serp API)
 - **Memory:** n8n Simple Memory (session-based)
 - **Data Storage:** Google Sheets (expense tracking), n8n internal (notes/tasks)
 
@@ -72,7 +72,7 @@ User (Streamlit Chat UI)
 ### Prerequisites
 
 - n8n account (cloud or self-hosted)
-- OpenAI API key
+- OpenAI  API key
 - Google account (for Gmail + Calendar)
 - Python 3.8+ (for Streamlit UI)
 
