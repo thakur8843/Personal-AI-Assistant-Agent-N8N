@@ -194,6 +194,11 @@ if prompt := st.chat_input("Ask your assistant anything..."):
 
 ---
 
+---
+WORKFLOW N8N Image-
+<img width="1854" height="844" alt="image" src="https://github.com/user-attachments/assets/eaf87664-5117-49c3-947f-4adaa2ea0dec" />
+
+
 ## 📊 What I Learned / Key Concepts
 
 - **Agentic AI design** — letting the LLM autonomously decide which tools to call based on user intent
